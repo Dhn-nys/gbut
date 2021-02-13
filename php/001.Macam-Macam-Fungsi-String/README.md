@@ -1,6 +1,6 @@
 # Macam-Macam Fungsi String 
 Saya tidak sengajah menemukan sebuah artikel ini, karena saya orangnya gabut ya saya ketik apakah code ini masih bisa di jalan kan di php7.3,
-Kerena untuk meluangkan waktu saya, akhirnya saya text script code ini ^.^ untuk penjelasannya ada di dalam script berbentuk komentar. jika masih kurang jelas silahkan kunjungi blog tersebut.
+Kerena untuk meluangkan waktu saya, akhirnya saya test script code ini ^.^ untuk penjelasannya ada di dalam script berbentuk komentar. jika masih kurang jelas silahkan kunjungi blog tersebut.
 
 ## List 
 01. addslashes
